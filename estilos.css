@@ -62,9 +62,9 @@ body::-webkit-scrollbar-thumb {
     justify-self: center;
 	grid-column-start: 2;
 	grid-column-end: 2;
-	width: 145px;
-	height: 145px;
-    padding: 10px;
+	width: 155px;
+	height: 155px;
+    	padding: 10px;
 	border-radius: 100px;
     transition: all .3s ease;
 }
