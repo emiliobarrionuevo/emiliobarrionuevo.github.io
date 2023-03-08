@@ -183,7 +183,7 @@ body::-webkit-scrollbar-thumb {
     padding: 10px;
     padding-right: 30px;
     padding-left: 30px;
-    font-size: clamp(0.8rem, 1.2vw, 2rem);
+    font-size: clamp(0.9rem, 1.2vw, 2rem);
 }
 
 .lista ul li{
